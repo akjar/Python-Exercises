@@ -1,4 +1,4 @@
-# Exercise Two (Usser Inputs)
+# Exercise Two (User Inputs)
 
 # - Create a distance converter converting Km to miles
 # - Take two inputs from user: Their first name and the distance in km
