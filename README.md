@@ -1,2 +1,2 @@
 # Python-Exercises
-Different exercises to practice python
+Scrimba exercises to practice python
