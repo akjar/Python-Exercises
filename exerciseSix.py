@@ -10,8 +10,7 @@
 # 6. Favorite color should be in lowercase
 
 def greeting(name, age, color='red'):
-    #Greets user with 'name' from 'input box' and 'age' next year, if available, default age is used
-    #Also includes color
+    #Greets user with “name” from “input box” and “age”, if available, default age is used
     print(f'Hello {name} you will be {age + 1} years old next birthday!')
     print(f'We hear you like the color {color}!')
 
